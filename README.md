@@ -1,5 +1,6 @@
 # my_project_showcase
-To showcase my projects
+
+### All the codes have been made private to prevent abuse, please contact me if you need anything.
 
 
 # 1. Bupa Medical Appointment Auto-Booking System
@@ -23,7 +24,6 @@ I am passionate about applying my technical skills to meaningful tasks.
 - **ChromeDriver**: Bridges commands between Selenium and Chrome.
 - **AWS**: Cloud hosting to ensure continuous operation.
 
-##### The code has been made private to prevent abuse, please contact me if you need anything.
 
 ___
 
